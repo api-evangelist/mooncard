@@ -1,0 +1,14 @@
+{
+  "repo": "mooncard",
+  "feeds": [
+    {
+      "source": "https://success.mooncard.co/s/?language=en_US",
+      "feed_url": "https://success.mooncard.co/s/?language=en_US",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
